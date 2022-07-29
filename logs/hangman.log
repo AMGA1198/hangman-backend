@@ -1,0 +1,36 @@
+| 2022-07-28 17:09:38 ERROR | --> Error building payload: ReferenceError: frases is not defined
+| 2022-07-28 17:12:58 INFO | --> Invalid schema: ValidationError: "uuid" must only contain alpha-numeric characters
+| 2022-07-28 17:12:59 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:13:33 INFO | --> Invalid schema: ValidationError: "uuid" must only contain alpha-numeric characters
+| 2022-07-28 17:13:33 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:13:53 INFO | --> Invalid schema: ValidationError: "uuid" must only contain alpha-numeric characters
+| 2022-07-28 17:13:53 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:15:52 INFO | --> Invalid schema: ValidationError: "uuid" must only contain alpha-numeric characters
+| 2022-07-28 17:15:52 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:16:21 INFO | --> Invalid schema: ValidationError: "uuid" must only contain alpha-numeric characters
+| 2022-07-28 17:16:21 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:23:10 INFO | --> Invalid schema: ValidationError: "uuid" must only contain alpha-numeric characters
+| 2022-07-28 17:23:10 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:24:04 INFO | --> Invalid schema: ValidationError: "uuid" must only contain alpha-numeric characters
+| 2022-07-28 17:24:04 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:24:19 INFO | --> Invalid schema: ValidationError: "uuid" must only contain alpha-numeric characters
+| 2022-07-28 17:24:19 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:24:58 INFO | --> Invalid schema: ValidationError: "uuid" must only contain alpha-numeric characters
+| 2022-07-28 17:24:58 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:25:31 INFO | --> Invalid schema: ValidationError: "uuid" must only contain alpha-numeric characters
+| 2022-07-28 17:25:31 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:29:34 INFO | --> Invalid schema: ValidationError: "mword" is required
+| 2022-07-28 17:29:34 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:30:12 INFO | --> Invalid schema: ValidationError: "mword" is required
+| 2022-07-28 17:30:12 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:31:10 INFO | --> Invalid schema: ValidationError: "mword" is required
+| 2022-07-28 17:31:10 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 17:31:43 INFO | --> Invalid schema: ValidationError: "mword" is required
+| 2022-07-28 17:31:43 ERROR | --> Error at creating new game: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+| 2022-07-28 18:21:32 ERROR | --> Error at updating game: TypeError: Assignment to constant variable.
+| 2022-07-28 18:32:39 ERROR | --> Error at updating game: ReferenceError: result is not defined
+| 2022-07-28 18:50:03 INFO | --> Updated game: [object Object]
+| 2022-07-28 18:50:40 INFO | --> Updated game: {"uuid":"ea5ed7bf-1c5d-45aa-b07a-e9f1808b8cfb","nguesses":8,"wguesses":["a","b","c","d"],"mword":"test","gletters":["a"]}
+| 2022-07-28 18:50:45 INFO | --> Created game: {"uuid":"03d6595c-54b8-4728-86d5-097901bb2db5","nguesses":10,"wguesses":["a","b","c"],"mword":"clothes","gletters":["a"]}
+| 2022-07-29 07:43:35 INFO | --> Created game: {"uuid":"94e66616-1ccf-4366-a0c5-beef24f9548a","nguesses":10,"wguesses":["a","b","c"],"mword":"animals","gletters":["a"]}
+| 2022-07-29 07:43:38 INFO | --> Updated game: {"uuid":"ea5ed7bf-1c5d-45aa-b07a-e9f1808b8cfb","nguesses":8,"wguesses":["a","b","c","d"],"mword":"test","gletters":["a"]}
